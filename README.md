@@ -1,6 +1,6 @@
 ### What is wrpc?
 
-wrpc supports both grpc and http json rpc.
+wrpc widely supports both grpc and http json rpc.
 
 
 ### Feature
